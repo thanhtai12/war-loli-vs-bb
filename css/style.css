@@ -115,7 +115,7 @@ video{
     transition:.5s ease-in-out;
 }
 .box:hover .Video Video{
-    transform:scale(1.5);
+    transform:scale(1.1);
 }
 
 .box .text{
